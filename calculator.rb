@@ -1,1 +1,1 @@
-def first_number = 1
+def first_number ; 1
